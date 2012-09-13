@@ -41,6 +41,7 @@ class Jarvis(QSystemTrayIcon):
 
 
 app = QApplication(sys.argv)
+app.setQuitOnLastWindowClosed(False)
 w = Jarvis()
 w.show()
 
