@@ -7,7 +7,7 @@
   "url": "", 
   "pythonPath": "python", 
   "preExecScript": "", 
-  "programParams": "", 
+  "programParams": "--debugging", 
   "PYTHONPATH": "", 
   "supported-extensions": [
     ".py", 
